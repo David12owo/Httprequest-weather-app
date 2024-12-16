@@ -1,0 +1,19 @@
+/**general presets**/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: yellow;
+  color: green;
+}
+#weather__location {
+  background-color: cornsilk;
+  color: red;
+  font-size: large;
+  font-weight: 500;
+}
+
+#search__weather__btn {
+  background-color: blue;
+  color: white;
+  font-size: large;
+  font-weight: 400;
+}
